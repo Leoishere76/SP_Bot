@@ -8,3 +8,5 @@ Pillow
 opencv-python
 pyaml
 jupyter
+clip
+pyautogui
